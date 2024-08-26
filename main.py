@@ -64,5 +64,4 @@ while True:
     conn.commit()
 
 # Cerrar la conexión al final del programa (esto se puede hacer 
-# al final del ciclo o al salir del programa)
-print("hola mundo")
+# al final del ciclo o al salir del programa
